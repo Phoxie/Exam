@@ -1,0 +1,13 @@
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.deps.json
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.runtimeconfig.json
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.pdb
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\bin\Debug\netcoreapp3.0\IDataInterface.dll
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\bin\Debug\netcoreapp3.0\IDataInterface.pdb
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfo.cs
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csproj.CopyComplete
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\Oscar\Source\Repos\Library2\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.pdb
