@@ -1,0 +1,8 @@
+C:\Users\Oscar\Source\Repos\Library2\IDataInterface\bin\Debug\netcoreapp3.0\IDataInterface.deps.json
+C:\Users\Oscar\Source\Repos\Library2\IDataInterface\bin\Debug\netcoreapp3.0\IDataInterface.dll
+C:\Users\Oscar\Source\Repos\Library2\IDataInterface\bin\Debug\netcoreapp3.0\IDataInterface.pdb
+C:\Users\Oscar\Source\Repos\Library2\IDataInterface\obj\Debug\netcoreapp3.0\IDataInterface.csprojAssemblyReference.cache
+C:\Users\Oscar\Source\Repos\Library2\IDataInterface\obj\Debug\netcoreapp3.0\IDataInterface.AssemblyInfoInputs.cache
+C:\Users\Oscar\Source\Repos\Library2\IDataInterface\obj\Debug\netcoreapp3.0\IDataInterface.AssemblyInfo.cs
+C:\Users\Oscar\Source\Repos\Library2\IDataInterface\obj\Debug\netcoreapp3.0\IDataInterface.dll
+C:\Users\Oscar\Source\Repos\Library2\IDataInterface\obj\Debug\netcoreapp3.0\IDataInterface.pdb
